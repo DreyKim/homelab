@@ -2,14 +2,14 @@
 
 A self-hosted infrastructure I run to practice the skills I use professionally in IT support and systems administration: containerization, networking, security, and monitoring.
 
-## Hardware
+## hardware
 
 - Lenovo ThinkPad T460 running Ubuntu 24.04 and Docker
 - [CPU: Intel(R) Core(TM) i5-6300U (4) @ 3.00 GHz]
 - [RAM: 8GB DDR4] 
 - [Storage: 1TB HDD]
 
-## Services
+## services
 
 | Service | Purpose |
 |---|---|
@@ -25,14 +25,14 @@ A self-hosted infrastructure I run to practice the skills I use professionally i
 
 
 
-## Networking and Security
+## networking and security
 
 - All remote access runs through Tailscale, so no services are exposed to the public internet
 - MagicDNS provides stable hostnames
 - UFW handles host firewalling; nginx handles reverse proxying and CORS
 
 
-## Why I Need This Grant
+## why I need this grant
 
 My lab runs on a single laptop and a flat network, which limits what I can practice. Funding would let me:
 
@@ -43,4 +43,4 @@ My lab runs on a single laptop and a flat network, which limits what I can pract
 ## Contact
 
 GitHub: [@DreyKim](https://github.com/DreyKim)
-Email: [kimathiandre@gmail.com]
+Email: [kimathiandre@gmail.com](kimathiandre@gmail.com)
