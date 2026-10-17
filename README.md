@@ -21,6 +21,9 @@ A self-hosted infrastructure I run to practice the skills I use professionally i
 
 ![Glance dashboard]: 
 
+<img width="1366" height="736" alt="Screenshot From 2026-10-18 02-02-59" src="https://github.com/user-attachments/assets/c7f870cc-7f31-4c6e-85b9-b7adad84d78b" />
+
+
 
 ## Networking and Security
 
