@@ -5,9 +5,9 @@ A self-hosted infrastructure I run to practice the skills I use professionally i
 ## hardware
 
 - Lenovo ThinkPad T460 running Ubuntu 24.04 and Docker
-- [CPU: Intel(R) Core(TM) i5-6300U (4) @ 3.00 GHz]
-- [RAM: 8GB DDR4] 
-- [Storage: 1TB HDD]
+- CPU: Intel(R) Core(TM) i5-6300U (4) @ 3.00 GHz
+- RAM: 8GB DDR4
+- Storage: 1TB HDD
 
 ## services
 
