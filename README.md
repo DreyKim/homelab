@@ -19,10 +19,7 @@ A self-hosted infrastructure I run to practice the skills I use professionally i
 | Navidrome | Self-hosted music streaming |
 | Glance | Custom dashboard: container status, server stats, weather, RSS feeds |
 
-![Glance dashboard]: 
-
-<img width="1366" height="736" alt="Screenshot From 2026-10-18 02-02-59" src="https://github.com/user-attachments/assets/c7f870cc-7f31-4c6e-85b9-b7adad84d78b" />
-
+<img width="1366" height="736" alt="Screenshot From 2026-10-18 16-54-57" src="https://github.com/user-attachments/assets/382f19fc-3d71-4c6d-bd2e-4040c0fa00c3" />
 
 
 ## networking and security
